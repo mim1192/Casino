@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_wunderino"
+        android:enabled="true"
+        android:title="@string/wunderino"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_slottica"
+        android:enabled="true"
+        android:title="@string/text_slottica"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_bwin"
+        android:enabled="true"
+        android:title="@string/text_bwin"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_leovegas"
+        android:enabled="true"
+        android:title="@string/text_leovegas"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_wplay"
+        android:enabled="true"
+        android:title="@string/text_wplay"
+        app:showAsAction="ifRoom" />
+
+</menu>
